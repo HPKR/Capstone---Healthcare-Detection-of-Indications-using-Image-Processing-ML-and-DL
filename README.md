@@ -8,7 +8,7 @@ This method can have several advantages, some of which highlighted below:
 • Faster diagnoses since ML will help doctors with a lot of extra information that they previously did not have.  
 • Lastly, it helps support social distancing and lockdowns, to reduce the risk of spreading of Covid-19.   
   
-In this project, an attempt has been made for the detection of indications of physical health problems by creating models using neural networks. Physical problems comprise of diseases related to eyes, and skin lesions. In addition, we are targeting to detect mood especially depression using facial expressions.
+In this project, an attempt has been made for the detection of indications of physical health problems by creating models using neural networks. Physical problems comprise of diseases related to eyes, and skin lesions. In addition, detection of mood especially depression using facial expressions have been made using deep learning.
 
 The demonstration of the project is shown in the video:
 
