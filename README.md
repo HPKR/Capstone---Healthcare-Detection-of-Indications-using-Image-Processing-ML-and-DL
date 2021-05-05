@@ -2,7 +2,7 @@
 
 This project has been targeted to ease up the preliminary diagnoses of the physical ailments. With the ongoing pandemic, it has become a challenge to visit the doctors like we used to in normal situations. Hence, it has become cruicial to provide an alternative method of diagnosis where a potential patient can just upload a picture of himself or herself and our ML model can predict whether the concerned patient has or does not have, get captured by the system. Then the system, does not immediately give an answer, but a weighted score measure which helps the doctor with their preliminary diagnosis. At the end, they get to decide whether an in-person appointment is required or not.
 
-This method can have several advantages, some of which highlighted below:
+This method can have several advantages, some of which highlighted below:   
 • Reduce waiting periods at clinics.  
 • Patients get to choose if they want to be physically present for their medical diagnoses.  
 • Faster diagnoses since ML will help doctors with a lot of extra information that they previously did not have.  
